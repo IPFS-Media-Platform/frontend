@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# auth0 config
+auth0-variables.js
+
